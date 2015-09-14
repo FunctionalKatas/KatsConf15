@@ -8,5 +8,6 @@ Speakers please send a PR with links to your slides and related posts!! Thanks :
 
 * Yan Cui - [A Tour of the language landscape](http://www.slideshare.net/theburningmonk/tour-of-language-landscape-katsconf)
 * Jan Machacek - [Muvr—a distributed exercise machine learning system](http://www.eigengo.com/katsconf-2015/)
+* Iain Hull - [Improving Correctness with Types](http://www.slideshare.net/IainHull/improving-correctness-with-types-52754347) ([references](http://workday.github.io/2015/03/17/scala-days-improving-correctness-with-types/))
 
 ## Feedback
