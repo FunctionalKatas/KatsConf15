@@ -1,4 +1,4 @@
-## KatsConf15
+## Kats Conf 15
 
 Did you attend #KatsConf15? send a PR with your pictures or videos or if you want to leave some feedback about it
 Speakers please send a PR with links to your slides and related posts!! Thanks :D
@@ -13,3 +13,6 @@ Speakers please send a PR with links to your slides and related posts!! Thanks :
 * Bob Long - [Introduction to Yesod](http://www.slideshare.net/bobjlong/introduction-to-yesod)
 
 ## Feedback
+
+## Pictures
+
