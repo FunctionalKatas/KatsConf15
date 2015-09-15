@@ -12,6 +12,7 @@ Speakers please send a PR with links to your slides and related posts!! Thanks :
 * Iain Hull - [Improving Correctness with Types](http://www.slideshare.net/IainHull/improving-correctness-with-types-52754347) ([references](http://workday.github.io/2015/03/17/scala-days-improving-correctness-with-types/))
 * Bob Long - [Introduction to Yesod](http://www.slideshare.net/bobjlong/introduction-to-yesod)
 * Jose Garcia-Sacristan - [Managing PTZ cameras with Phoenix] (http://www.slideshare.net/JoseGarciaSacristan/managing-ptz-cameras-using-elixir-and-the-phoenix-framework)
+* Phillip Trelford - [Beyond Lists](http://www.slideshare.net/ptrelford/beyond-lists-functional-kats-conf-dublin-2015)
 
 ## Feedback
 
