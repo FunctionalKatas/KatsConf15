@@ -1,4 +1,4 @@
-## Kats Conf 15
+## Kats Conf 15 :cat:
 
 Did you attend #KatsConf15? send a PR with your pictures or videos or if you want to leave some feedback about it
 Speakers please send a PR with links to your slides and related posts!! Thanks :D
