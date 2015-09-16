@@ -14,6 +14,7 @@ Speakers please send a PR with links to your slides and related posts!! Thanks :
 * Jose Garcia-Sacristan - [Managing PTZ cameras with Phoenix] (http://www.slideshare.net/JoseGarciaSacristan/managing-ptz-cameras-using-elixir-and-the-phoenix-framework)
 * Phillip Trelford - [Beyond Lists](http://www.slideshare.net/ptrelford/beyond-lists-functional-kats-conf-dublin-2015)
 * Garth Gilmour - Scala and Clojure are Simpler than Java 8 ([Download PDF](https://github.com/FunctionalKatas/KatsConf15/raw/master/KatsConfScalaClojureSimplerThanJava8.pdf))
+* Felienne Hermans [slideshare.net/Felienne/a-board-game-night-with-geeks-attacking-quarto-ties-with-sat-solvers](A board game night with geeks)
 
 ## Feedback
 
